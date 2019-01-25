@@ -1,0 +1,2 @@
+- Herança, polimorfismo e padrões de des. de sistemas
+	https://www.youtube.com/watch?v=LXCdObKZgo8
