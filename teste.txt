@@ -1,2 +1,3 @@
 line added on master
 other line added
+line added
